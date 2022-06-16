@@ -14,7 +14,7 @@ Dbconn dbconn = new  Dbconn();
 System.out.println("dbconn"+dbconn);
 %>
 
-<h1>메인 페이지 입니다.</h1>
+<h1>메인 페이지 입니다.11111111</h1>
 
 <a href="<%=request.getContextPath() %>/member/memberJoin.do">회원가입하기</a> 
 <a href="<%=request.getContextPath() %>/member/memberList.do">회원 목록가기</a>
